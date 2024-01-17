@@ -36,12 +36,12 @@ public class Categorias {
 		this.id = id;
 	}
 
-	public String getDescricao() {
+	public String getGenero() {
 		return this.genero;
 	}
 
-	public void setDescricao(String descricao) {
-		this.genero = descricao;
+	public void setGenero(String genero) {
+		this.genero = genero;
 	}
 
 
